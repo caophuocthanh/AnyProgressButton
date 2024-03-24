@@ -1,8 +1,13 @@
-<center><img src="https://github.com/caophuocthanh/AnyProgressButton/blob/main/Screenshoot/screenshot.png?raw=true" width="60%"></center>
+
 
 # AnyProgressButton
 
+
+<center><img src="https://github.com/caophuocthanh/AnyProgressButton/blob/main/Screenshoot/screenshot.png?raw=true" width="60%"></center>
+
 Custom UIControl to show progress and you can drag to change the value with valueChanged
+
+## How to use
 
 ```swift
 
